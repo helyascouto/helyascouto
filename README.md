@@ -2,8 +2,8 @@
 <h3 align="center">Desenvolvedor C#</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helyascouto&label=Profile%20views&color=0e75b6&style=flat" alt="helyascouto" /> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=helyascouto&theme=dracula" alt="helyascouto" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=helyascouto" alt="helyascouto" /></a> </p>
 
 - 🔭 Sistema Web para cadastro de pedido - Em desenvolvimento. Ferramentas utilizadas: Asp, HTML, CSS, Bootstrap, DataAnnotation, Entity Framework, Azure. [Cadastro de Pedidos Asp.net-MVC](https://github.com/helyascouto/Cadastro-de-Pedidos-Asp.net-MVC)
 
