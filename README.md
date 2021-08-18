@@ -22,9 +22,9 @@
 
 <h2 align="left">Entre em Contato:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/eliasabreucouto" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="eliasabreucouto"  /></a>
-<a href="https://helyascouto@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="eliasabreucouto"  /></a>
-<a href="https://api.whatsapp.com/send/?phone=28999391903" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="eliasabreucouto"  /></a>
+<a href="https://linkedin.com/in/eliasabreucouto" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="eliasabreucouto"  /></a>
+<a href="https://helyascouto@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="eliasabreucouto"  /></a>
+<a href="https://api.whatsapp.com/send/?phone=28999391903" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="eliasabreucouto"  /></a>
 </p>
 
 
