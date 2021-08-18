@@ -34,9 +34,9 @@
 
 
 
-<div>
+
  ![Snake animation](https://github.com/helyascouto/helyascouto/blob/output/github-contribution-grid-snake.svg)
-</div>
+
 
 
 
