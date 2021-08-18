@@ -35,6 +35,8 @@
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/helyascouto/helyascouto/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/helyascouto/helyascouto/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width:100%;"></a></p>
 
+![Snake animation](https://github.com/helyascouto/helyascouto/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
