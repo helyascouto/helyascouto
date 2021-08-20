@@ -4,7 +4,8 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=helyascouto&label=Profile%20views&color=0e75b6&style=flat" alt="helyascouto" /> </p>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helyascouto&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helyascouto&layout=compact&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h2 align="left">Projetos em Destaque!</h2>
