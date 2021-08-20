@@ -3,7 +3,7 @@
 <h2 align="center"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> Repositorio Azure : https://dev.azure.com/eliascouto</h2>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=helyascouto&label=Profile%20views&color=0e75b6&style=flat" alt="helyascouto" /> </p>
- ![Snake animation](https://github.com/helyascouto/helyascouto/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
@@ -31,7 +31,7 @@
 
 
 
-
+ ![Snake animation](https://github.com/helyascouto/helyascouto/blob/output/github-contribution-grid-snake.svg)
 
 
 
