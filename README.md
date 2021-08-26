@@ -1,4 +1,4 @@
-<h1 align="center">Bem vindo ao meu GitHub, Sou Elias Abreu Do Couto</h1>
+<h1 align="center">Olá, Sou Elias Abreu Couto!</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=helyascouto&label=Profile%20views&color=0e75b6&style=flat" alt="helyascouto" /> </p>
 
