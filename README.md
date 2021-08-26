@@ -7,7 +7,7 @@
 
 <br>
 <h2 align="left"> Projeto Principal</h2>
-  Projeto Gestão de consultas para Medicina do trabalhao (https://github.com/helyascouto/Gerenciamento-Consultas) 
+    Projeto Gestão de consultas para Medicina do trabalhao - Em Desenvolvimento (https://github.com/helyascouto/Gerenciamento-Consultas) 
 <h2 align="left">Projetos em Destaque!</h2>
 
 - Sistema Web para cadastro de pedido - Em desenvolvimento. Ferramentas utilizadas: Asp, HTML, CSS, Bootstrap, DataAnnotation, Entity Framework, Azure. [Cadastro de Pedidos Asp.net-MVC](https://github.com/helyascouto/Cadastro-de-Pedidos-Asp.net-MVC)
