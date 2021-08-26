@@ -1,14 +1,15 @@
-<h1 align="center">Olá👋, Sou Elias Abreu Do Couto</h1>
+<h1 align="center">Bem vindo ao meu GitHub, Sou Elias Abreu Do Couto</h1>
 
-<h2 align="center"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> Repositorio Azure : https://dev.azure.com/eliascouto</h2>
-<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=helyascouto&label=Profile%20views&color=0e75b6&style=flat" alt="helyascouto" /> </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helyascouto&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helyascouto&layout=compact&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<br>
+<h2 align="left"> Projeto Principal</h2>
+  Projeto Gestão de consultas para Medicina do trabalhao (https://github.com/helyascouto/Gerenciamento-Consultas) 
 <h2 align="left">Projetos em Destaque!</h2>
+
 - Sistema Web para cadastro de pedido - Em desenvolvimento. Ferramentas utilizadas: Asp, HTML, CSS, Bootstrap, DataAnnotation, Entity Framework, Azure. [Cadastro de Pedidos Asp.net-MVC](https://github.com/helyascouto/Cadastro-de-Pedidos-Asp.net-MVC)
 
 - Sistema de cadastro de funcionário - Windows Forms [CadastroFuncionario](https://github.com/helyascouto/CadastroFuncionario)
@@ -17,7 +18,7 @@
 
 
 
-<h2 align="left">Entre em Contato:</h2>
+<h2 align="left">Fique avontade para em Contato:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/eliasabreucouto" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="eliasabreucouto"  /></a>
 <a href="https://helyascouto@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="eliasabreucouto"  /></a>
