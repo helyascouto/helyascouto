@@ -2,8 +2,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=helyascouto&label=Profile%20views&color=0e75b6&style=flat" alt="helyascouto" /> </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helyascouto&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helyascouto&layout=compact&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+ <a href="https://github.com/helyascouto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helyascouto&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helyascouto&layout=compact&langs_count=7&theme=merko"/>
+</div>
 
 <br>
 <h2 align="left"> Projeto Principal</h2>
