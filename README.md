@@ -1,7 +1,7 @@
-<h1 align="center">Olá, Sou Elias Abreu Couto!</h1>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=helyascouto&label=Profile%20views&color=0e75b6&style=flat" alt="helyascouto" /> </p>
-
+<h1 align="center">Olá, Sou Elias Abreu Couto!</h1>
 
 
 ![Snake animation](https://github.com/helyascouto/helyascouto/blob/output/github-contribution-grid-snake.svg)
@@ -14,7 +14,7 @@
 
 - Sistema de cadastro de funcionário - Windows Forms [CadastroFuncionario](https://github.com/helyascouto/CadastroFuncionario)
 
-- Consumindo API REST no C # com Refit(JSON) [ApiCep](https://github.com/helyascouto/ApiCep)
+- Consumindo API REST no C # com Refit [ApiCep](https://github.com/helyascouto/ApiCep)
 
 
 
