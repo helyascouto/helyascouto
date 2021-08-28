@@ -3,8 +3,15 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=helyascouto&label=Profile%20views&color=0e75b6&style=flat" alt="helyascouto" /> </p>
 <h1 align="center">Olá, Sou Elias Abreu Couto!</h1>
 
+<div align="center">  
+<a  href="https://github.com/helyascouto" ></a>
+    <img height="180em"
+        src="https://github-readme-stats.vercel.app/api?username=helyascouto&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
+    <img height="180em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=helyascouto&layout=compact&langs_count=7&theme=merko" />
+</div>
  
-![Snake animation](https://github.com/helyascouto/helyascouto/blob/output/github-contribution-grid-snake.svg)
+
 
 <h2 align="left"> Projeto Principal</h2>
    <h3> Projeto Gestão de consultas para Medicina do trabalhao - Em Desenvolvimento (https://github.com/helyascouto/Gerenciamento-Consultas) </h3>
@@ -32,9 +39,10 @@
 
 
 
-  <a href="https://github.com/helyascouto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helyascouto&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helyascouto&layout=compact&langs_count=7&theme=merko"/>
+
+![Snake animation](https://github.com/helyascouto/helyascouto/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 
