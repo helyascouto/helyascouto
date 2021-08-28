@@ -3,15 +3,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=helyascouto&label=Profile%20views&color=0e75b6&style=flat" alt="helyascouto" /> </p>
 
 
-  
 
-
-<br>
+![Snake animation](https://github.com/helyascouto/helyascouto/blob/output/github-contribution-grid-snake.svg)
 
 <h2 align="left"> Projeto Principal</h2>
-    Projeto Gestão de consultas para Medicina do trabalhao - Em Desenvolvimento (https://github.com/helyascouto/Gerenciamento-Consultas) 
+   <h3> Projeto Gestão de consultas para Medicina do trabalhao - Em Desenvolvimento (https://github.com/helyascouto/Gerenciamento-Consultas) </h3>
+<br>
 <h2 align="left">Projetos em Destaque!</h2>
-
 - Sistema Web para cadastro de pedido - Em desenvolvimento. Ferramentas utilizadas: Asp, HTML, CSS, Bootstrap, DataAnnotation, Entity Framework, Azure. [Cadastro de Pedidos Asp.net-MVC](https://github.com/helyascouto/Cadastro-de-Pedidos-Asp.net-MVC)
 
 - Sistema de cadastro de funcionário - Windows Forms [CadastroFuncionario](https://github.com/helyascouto/CadastroFuncionario)
@@ -34,11 +32,9 @@
 
 
 
-
- ![Snake animation](https://github.com/helyascouto/helyascouto/blob/output/github-contribution-grid-snake.svg)
-
-
-
+  <a href="https://github.com/helyascouto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helyascouto&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helyascouto&layout=compact&langs_count=7&theme=merko"/>
 
 
 
