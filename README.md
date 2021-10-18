@@ -15,7 +15,7 @@
 
 <h2 align="left"> Projeto Principal</h2>
    <h3> Projeto Gestão de consultas para Medicina do trabalhao - Em Desenvolvimento (https://github.com/helyascouto/Gerenciamento-Consultas) </h3>
-   <img src="https://repository-images.githubusercontent.com/398822250/e2f8bc96-086c-4275-8472-a8e1abaed22f" alt="imagem do projeto">
+   <img src="https://repository-images.githubusercontent.com/398822250/81aebfa8-f909-4580-90e8-1c105f5df5cf" alt="imagem do projeto">
 <br>
 <h2 align="left">Projetos em Destaque!</h2>
 - Sistema Web para cadastro de pedido - Em desenvolvimento. Ferramentas utilizadas: Asp, HTML, CSS, Bootstrap, DataAnnotation, Entity Framework, Azure. [Cadastro de Pedidos Asp.net-MVC](https://github.com/helyascouto/Cadastro-de-Pedidos-Asp.net-MVC)
